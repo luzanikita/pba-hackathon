@@ -1,0 +1,9 @@
+torch
+matplotlib
+pandas
+numpy
+scikit-learn
+fastapi
+ezkl
+onnx
+types-requests
